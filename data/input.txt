@@ -1,0 +1,2 @@
+je t'aime. prions
+L'algorithmique est l’ensemble des règles et des techniques qui sont impliquées dans la définition et la conception d'algorithmes, c'est-à-dire de processus systématiques de résolution d'un problème permettant de décrire les étapes vers le résultat. En d'autres termes, un algorithme est une suite finie et non-ambiguë d’instructions permettant de donner la réponse à un problème.

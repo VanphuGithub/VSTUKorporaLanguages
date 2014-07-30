@@ -1,0 +1,12 @@
+1	Diese	dies	PDAT	PDAT	_	2	NK	_	_
+2	Seiten	Seite	NN	NN	_	3	SB	_	_
+3	enthalten	enthalten	VVFIN	VVFIN	_	0	ROOT	_	_
+4	alle	alle	PIAT	PIAT	_	7	NK	_	_
+5	relevanten	relevant	ADJA	ADJA	_	6	NK	_	_
+6	Informationen	Information	NN	NN	_	7	NK	_	_
+7	IMS	IMS	NN	NN	_	3	OA	_	_
+8	vorhandenen	vorhanden	ADJA	ADJA	_	11	NK	_	_
+9	geförderten	gefördert	ADJA	ADJA	_	10	NK	_	_
+10	Austauschprogramme	Austauschprogramm	NN	NN	_	11	NK	_	_
+11	Studierende	Studierende	NN	NN	_	7	AG	_	_
+12	.	.	$.	$.	_	3	PUNC	_	_

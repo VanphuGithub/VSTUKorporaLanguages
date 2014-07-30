@@ -1,0 +1,150 @@
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=true and allow_reduce=false
+  Feature model        : NivreEager.xml
+  Classifier           : liblinear
+  Data Format          : /german/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=true and allow_reduce=false
+  Feature model        : NivreEager.xml
+  Classifier           : liblinear
+  Data Format          : /german/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=true and allow_reduce=false
+  Feature model        : NivreEager.xml
+  Classifier           : liblinear
+  Data Format          : /spanish/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=true and allow_reduce=false
+  Feature model        : NivreEager.xml
+  Classifier           : liblinear
+  Data Format          : /spanish/conllx.xml
+  Transition system    : Arc-Eager
+  Parser configuration : Nivre with with allow_root=false and allow_reduce=false
+  Feature model        : ftb.xml
+  Classifier           : liblinear
+  Data Format          : /fremalt-1.7/conllx.xml

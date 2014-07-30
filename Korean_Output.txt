@@ -1,0 +1,29 @@
+(ROOT
+  (S
+    (NPSBJ
+      (NP
+        (NP
+          (NP
+            (DP (MM 모든))
+            (NP (NNG 문서는)))
+          (NP (NNP 크리에이티브)))
+        (NP (NNG 커먼즈)))
+      (NPSBJ
+        (NP (NNG 저작자표시-동일조건변경허락에))
+        (JX 따라)))
+    (NP
+      (NP (NR 사용할) (NNB 수))
+      (NP
+        (NP
+          (NP (NNG 있으며,))
+          (NP (NNG 추가적인) (NNG 조건이)))
+        (NP
+          (NP (NR 적용될) (NNB 수))
+          (NP
+            (NP (NNG 있습니다.) (NNG 자세한))
+            (NP
+              (NP
+                (NP (NNG 내용은))
+                (NP (NNG 이용)))
+              (NP (NNG 약관을) (NNG 참고하십시오.
+)))))))))
